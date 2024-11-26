@@ -93,37 +93,19 @@ def calculate_idi(input_geojson, output_prefix, year, aggregate_file):
     print(f"Processed {year}. Outputs saved to '{geojson_file}' and '{csv_file}'.")
 # Census Tracts
 calculate_idi(
-    input_geojson="part_1.geojson",  # Replace with your census tract GeoJSON file
+    input_geojson="tracts.geojson",  # Replace with your census tract GeoJSON file
     output_prefix="tracts",
     year="2013",
     aggregate_file="IDI_tract_all.csv"
 )
 calculate_idi(
-    input_geojson="part_2.geojson",  # Replace with your census tract GeoJSON file
-    output_prefix="tracts",
-    year="2013",
-    aggregate_file="IDI_tract_all.csv"
-)
-calculate_idi(
-    input_geojson="part_3.geojson",  # Replace with your census tract GeoJSON file
-    output_prefix="tracts",
-    year="2013",
-    aggregate_file="IDI_tract_all.csv"
-)
-calculate_idi(
-    input_geojson="part_4.geojson",  # Replace with your census tract GeoJSON file
-    output_prefix="tracts",
-    year="2013",
-    aggregate_file="IDI_tract_all.csv"
-)
-calculate_idi(
-    input_geojson="part_1.geojson",  # Replace with your census tract GeoJSON file
+    input_geojson="tracts.geojson",  # Replace with your census tract GeoJSON file
     output_prefix="tracts",
     year="2017",
     aggregate_file="IDI_tract_all.csv"
 )
 calculate_idi(
-    input_geojson="tracts_lower.geojson",  # Replace with your census tract GeoJSON file
+    input_geojson="tracts.geojson",  # Replace with your census tract GeoJSON file
     output_prefix="tracts",
     year="2022",
     aggregate_file="IDI_tract_all.csv"
