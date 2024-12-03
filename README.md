@@ -63,6 +63,6 @@ Idk how licensing works... Just don't sell it I guess.
 
 # Presentation
 
-<a href="https://youtu.be/Eqtjx-CYxUg?si=agYlch4mVPrMqfE6" target="_blank" rel="noopener noreferrer">
-    <img src="https://youtu.be/Eqtjx-CYxUg?si=agYlch4mVPrMqfE6/maxresdefault.jpg" width="480" alt="Final Presentation --- 24Fa - Pedestrian Environment Index (PEI)">
+<a href="https://youtu.be/Eqtjx-CYxUg?si=MhWMFuBX-LoGsxPb" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/Eqtjx-CYxUg/maxresdefault.jpg" width="480" alt="Final Presentation --- 24Fa - Pedestrian Environment Index (PEI)">
 </a>
