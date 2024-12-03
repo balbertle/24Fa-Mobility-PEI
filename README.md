@@ -11,7 +11,6 @@ This project implements the Pedestrian Environment Index (PEI) methodology as de
 
 | Name                  | Seniority | Major                  | Department | GitHub Handle                                                 | 
 | --------------------- | --------- | ---------------------- | ---------- | ------------------------------------------------------------- | 
-| Yilun Zha             | PhD       | Planning/Urban Design  | ARCH       | [elonncha](https://github.com/elonncha)                       | 
 | C. "Albert" Le        | Sophomore | Computer Engineering   | ECE        | [balbertle](https://github.com/balbertle)                     | 
 | Chunlan Wang          | Masters   | Architecture (DC)      | ARCH       | [wang-123-xi](https://github.com/wang-123-xi)                 | 
 | Yichao Shi            | PhD       | Architecture           | ARCH       | [SHIyichao98](https://github.com/SHIyichao98)                 | 
