@@ -161,10 +161,10 @@ The Pedestrian Environment Index (PEI) is a composite measure of walkability tha
   - Use Leaflet to visualize
 
  
-  
-2013					2022
-
-
+![Alt text](imagesFolder/2013peiatl.png?raw=true "2013")
+2013
+![Alt text](imagesFolder/2022peiatl.png?raw=true "2022")
+2022
 
 
 
