@@ -167,8 +167,11 @@ The Pedestrian Environment Index (PEI) is a composite measure of walkability tha
 2022
 
 
+## Usage
+1. Retrieve API key if using Census API for PDI
+2. Else, download year requested for CSV from https://mcdc.missouri.edu/cgi-bin/uexplore?/data
+3. Change names and paths in the generator scripts to desired files
 
-* **Usage:** 
 
 **Contributing**
 
